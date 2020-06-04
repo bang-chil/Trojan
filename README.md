@@ -1,0 +1,2 @@
+# Trojan
+Mengirimkan virus trojan
